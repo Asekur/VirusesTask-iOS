@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>729354223407-gcs9j11htqai7to1qr04a6s09ev9bobc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.729354223407-gcs9j11htqai7to1qr04a6s09ev9bobc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCw1YnZ9jN-ZvOjXE1NK7lAusANqrxiugc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>729354223407</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.Baryko.StudentMap</string>
+	<key>PROJECT_ID</key>
+	<string>studentmap-303714</string>
+	<key>STORAGE_BUCKET</key>
+	<string>studentmap-303714.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:729354223407:ios:05c0435cc992017787abda</string>
+	<key>DATABASE_URL</key>
+	<string>https://studentmap-303714-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

@@ -1,0 +1,39 @@
+/* 
+  Localizable.strings
+  VirusMap
+
+  Created by Angelina Rusinovich on 24.02.21.
+  
+*/
+
+"Full name" = "Полное имя";
+"Password" = "Пароль";
+"Log In" = "Войти";
+"Don't have an account?" = "Еще не зарегистрированы?";
+"Back" = "Назад";
+"Nickname" = "Прозвище";
+"Year" = "Год рождения";
+"Mortality" = "Смертность в %";
+"Domain" = "Домен";
+"Continent" = "Континент";
+"Country" = "Страна";
+"Create an account" = "Создать аккаунт";
+"Viruses" = "Вирусы";
+"My profile" = "Мой профиль";
+"Video Link" = "Видео";
+"Show my gallery" = "Показать мою галерею";
+"Gallery" = "Галерея";
+"Show photo gallery" = "Показать галерею";
+"lower" = "меньше";
+"Bacteria" = "Бактерия";
+"Virus" = "Вирус";
+"Use filters" = "Применить";
+"Show all" = "Показать все";
+"Virus Map" = "Карта";
+"Settings" = "Настройки";
+"Change language" = "Сменить язык";
+"Log out" = "Выйти";
+"Font" = "Шрифт";
+"Year (<=):" = "Год (<=):";
+"Mortality (<=):" = "Смертность (<=):";
+"Domain:" = "Домен:";

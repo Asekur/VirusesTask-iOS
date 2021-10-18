@@ -1,0 +1,126 @@
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "5US-0T-cFy"; */
+"5US-0T-cFy.title" = "Settings";
+
+/* Class = "UITextField"; placeholder = "First name"; ObjectID = "5lL-Dn-kfl"; */
+"5lL-Dn-kfl.placeholder" = "First name";
+
+/* Class = "UILabel"; text = "First Second"; ObjectID = "9GD-Ny-r0q"; */
+"9GD-Ny-r0q.text" = "First Second";
+
+/* Class = "UIButton"; normalTitle = "Show my gallery"; ObjectID = "BXA-kD-RLM"; */
+"BXA-kD-RLM.normalTitle" = "Show my gallery";
+
+/* Class = "UISearchBar"; placeholder = "Enter name"; ObjectID = "G1r-bp-I4d"; */
+"G1r-bp-I4d.placeholder" = "Enter name";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "Gd8-jY-5HL"; */
+"Gd8-jY-5HL.normalTitle" = "Log In";
+
+/* Class = "UITextField"; placeholder = "Video link"; ObjectID = "HqF-m8-VAu"; */
+"HqF-m8-VAu.placeholder" = "Video link";
+
+/* Class = "UINavigationItem"; title = "My profile"; ObjectID = "Ihj-fO-SE5"; */
+"Ihj-fO-SE5.title" = "My profile";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "J6i-nA-Ec0"; */
+"J6i-nA-Ec0.placeholder" = "City";
+
+/* Class = "UIButton"; normalTitle = "Create an account"; ObjectID = "MK5-cK-IEE"; */
+"MK5-cK-IEE.normalTitle" = "Create an account";
+
+/* Class = "UITextField"; placeholder = "City"; ObjectID = "N39-Vt-m5u"; */
+"N39-Vt-m5u.placeholder" = "City";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "NQF-fq-7nB"; */
+"NQF-fq-7nB.placeholder" = "Country";
+
+/* Class = "UILabel"; text = "email@gmail.com"; ObjectID = "NwH-Xi-dK0"; */
+"NwH-Xi-dK0.text" = "email@gmail.com";
+
+/* Class = "UITextField"; placeholder = "University"; ObjectID = "O3B-w8-ZtA"; */
+"O3B-w8-ZtA.placeholder" = "University";
+
+/* Class = "UILabel"; text = "LOGIN"; ObjectID = "OU5-va-MnY"; */
+"OU5-va-MnY.text" = "LOGIN";
+
+/* Class = "UILabel"; text = "University"; ObjectID = "PIa-j6-YLG"; */
+"PIa-j6-YLG.text" = "University";
+
+/* Class = "UINavigationItem"; title = "Gallery"; ObjectID = "PdA-Nl-vji"; */
+"PdA-Nl-vji.title" = "Gallery";
+
+/* Class = "UILabel"; text = "BSUIR"; ObjectID = "VOA-Xi-uWy"; */
+"VOA-Xi-uWy.text" = "BSUIR";
+
+/* Class = "UILabel"; text = "Country, City"; ObjectID = "WM9-d9-xag"; */
+"WM9-d9-xag.text" = "Country, City";
+
+/* Class = "UINavigationItem"; title = "Students"; ObjectID = "anx-AX-MtN"; */
+"anx-AX-MtN.title" = "Students";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "b1w-e7-h7E"; */
+"b1w-e7-h7E.placeholder" = "E-mail";
+
+/* Class = "UIButton"; normalTitle = "Show photo gallery of student"; ObjectID = "cp6-2H-BHa"; */
+"cp6-2H-BHa.normalTitle" = "Show photo gallery of student";
+
+/* Class = "UITextField"; placeholder = "University"; ObjectID = "ctM-Xc-pxv"; */
+"ctM-Xc-pxv.placeholder" = "University";
+
+/* Class = "UILabel"; text = "First Second"; ObjectID = "d4M-xG-Oeu"; */
+"d4M-xG-Oeu.text" = "First Second";
+
+/* Class = "UITextField"; placeholder = "Last name"; ObjectID = "ejg-eP-f5R"; */
+"ejg-eP-f5R.placeholder" = "Last name";
+
+/* Class = "UIButton"; normalTitle = "Create new account"; ObjectID = "ek8-vB-bMz"; */
+"ek8-vB-bMz.normalTitle" = "Create new account";
+
+/* Class = "UITextField"; placeholder = "Country"; ObjectID = "fmh-cL-NbS"; */
+"fmh-cL-NbS.placeholder" = "Country";
+
+/* Class = "UITabBarItem"; title = "Student Map"; ObjectID = "gbE-PL-IeW"; */
+"gbE-PL-IeW.title" = "Student Map";
+
+/* Class = "UILabel"; text = "Country, City"; ObjectID = "ggL-Ae-oTz"; */
+"ggL-Ae-oTz.text" = "Country, City";
+
+/* Class = "UITabBarItem"; title = "Students"; ObjectID = "hfj-c3-GlF"; */
+"hfj-c3-GlF.title" = "Students";
+
+/* Class = "UILabel"; text = "Language"; ObjectID = "hoU-F3-uzr"; */
+"hoU-F3-uzr.text" = "Language";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "k3P-yl-EgU"; */
+"k3P-yl-EgU.placeholder" = "Password";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "lCY-Mu-QeR"; */
+"lCY-Mu-QeR.title" = "Save";
+
+/* Class = "UITextField"; placeholder = "Last Name"; ObjectID = "lz6-E3-lkb"; */
+"lz6-E3-lkb.placeholder" = "Last Name";
+
+/* Class = "UITextField"; placeholder = "First Name"; ObjectID = "qYh-Nz-X6k"; */
+"qYh-Nz-X6k.placeholder" = "First Name";
+
+/* Class = "UITabBarItem"; title = "Students"; ObjectID = "rOR-ZZ-G7B"; */
+"rOR-ZZ-G7B.title" = "Students";
+
+/* Class = "UITextField"; placeholder = "E-mail"; ObjectID = "u8k-j2-xsy"; */
+"u8k-j2-xsy.placeholder" = "E-mail";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "wHU-pE-gxG"; */
+"wHU-pE-gxG.placeholder" = "Password";
+
+/* Class = "UILabel"; text = "New Student"; ObjectID = "yee-LJ-Vyf"; */
+"yee-LJ-Vyf.text" = "New Student";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "yfw-N9-4CC"; */
+"yfw-N9-4CC.title" = "Settings";
+
+/* Class = "UIBarButtonItem"; title = "Edit profile"; ObjectID = "zDH-HP-14r"; */
+"zDH-HP-14r.title" = "Edit profile";
+
+/* Class = "UILabel"; text = "Student Name"; ObjectID = "zya-wN-1Sg"; */
+"zya-wN-1Sg.text" = "Student Name";
